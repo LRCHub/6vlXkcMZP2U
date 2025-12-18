@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "NEXT COLOR PLANET -TEKINA//remix-",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-18T14:09:56.945703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NEXT COLOR PLANET TEKINA//remix-",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/01_NEXT_COLOR_PLANET_TEKINA_remix-_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NEXT COLOR PLANET -TEKINA//remix-",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_NEXT_COLOR_PLANET_-TEKINA_remix-_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEXT COLOR PLANET",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_NEXT_COLOR_PLANET_星街すいせい.txt"
+    }
+  ]
+}
